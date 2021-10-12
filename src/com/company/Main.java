@@ -41,6 +41,12 @@ public class Main {
                 System.out.println(itr.next());
             }
 
+            System.out.println("Printing the elements using the index of it:");
+
+            for(int i=0;i<l1.size();i++){
+                System.out.println(l1.get(i));
+        }
+
 
 
 
