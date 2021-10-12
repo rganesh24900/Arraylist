@@ -26,7 +26,7 @@ public class Main {
         System.out.println(l1);
 
 
-        System.out.println("Adding both the arraylist:");
+        System.out.println("Adding both the arraylist and storing the result in l1:");
         l1.addAll(i1);
 
         System.out.println("Removing elements of i1 from l1");
